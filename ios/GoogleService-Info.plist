@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>339923114931-8n25b35uhga27bftahaqoboc5a1a594g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.339923114931-8n25b35uhga27bftahaqoboc5a1a594g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>339923114931-fh98n9763rm5co37nucff9rbvo7h560k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAljs_tNw0nrUixPmA3RKSU4MWfGf6aFqg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>339923114931</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.das360.jamalkhana</string>
+	<key>PROJECT_ID</key>
+	<string>jamalkhanah-d40db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jamalkhanah-d40db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:339923114931:ios:2c8c57b3f37874537109c6</string>
+	<key>DATABASE_URL</key>
+	<string>https://jamalkhanah-d40db-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
